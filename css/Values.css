@@ -176,11 +176,10 @@ main {
   		overflow-x: hidden;
   	}
 	.main-menu ul {
-		flex-direction: column;
 		align-items: center;
-		gap: 12px;
+		gap: 30px;
 		margin-left: 0;
-		padding: 10px 5px;
+		padding: 10px 15px;
 	}
 	.main-menu a,
 	.main-menu b {
